@@ -1,0 +1,933 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.6.24)  25 JUN 2017 15:59
+entering extended mode
+**./matlab_piano_final_2015011428_2015011431.tex
+(matlab_piano_final_2015011428_2015011431.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\cjk\CJK.sty"
+Package: CJK 2015/04/18 4.8.4
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\cjk\mule\MULEenc.sty"
+Package: MULEenc 2015/04/18 4.8.4
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\cjk\CJK.enc"
+File: CJK.enc 2015/04/18 4.8.4
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box26
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2016/10/11 v3.9 Extensive control of page headers and footers
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip55
+\subfigcapskip=\skip56
+\subfigcaptopadj=\dimen114
+\subfigbottomskip=\skip57
+\subfigcapmargin=\dimen115
+\subfiglabelskip=\skip58
+\c@subfigure=\count100
+\c@lofdepth=\count101
+\c@subtable=\count102
+\c@lotdepth=\count103
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip59
+\subfig@bottom=\skip60
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count104
+\mult@box=\box29
+\multicol@leftmargin=\dimen116
+\c@unbalance=\count105
+\c@collectmore=\count106
+\doublecol@number=\count107
+\multicoltolerance=\count108
+\multicolpretolerance=\count109
+\full@width=\dimen117
+\page@free=\dimen118
+\premulticols=\dimen119
+\postmulticols=\dimen120
+\multicolsep=\skip61
+\multicolbaselineskip=\skip62
+\partial@page=\box30
+\last@line=\box31
+\maxbalancingoverflow=\dimen121
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count110
+\c@finalcolumnbadness=\count111
+\last@try=\dimen122
+\multicolovershoot=\dimen123
+\multicolundershoot=\dimen124
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+\mc@col@check@num=\count112
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\picins\picins.sty"
+Option `picins' Version 3.0 Sep. 1992, TH Darmstadt/HRZ
+\@BILD=\box55
+\@TEXT=\box56
+\d@breite=\dimen125
+\d@hoehe=\dimen126
+\d@xoff=\dimen127
+\d@yoff=\dimen128
+\d@shad=\dimen129
+\d@dash=\dimen130
+\d@boxl=\dimen131
+\d@pichskip=\dimen132
+\d@tmp=\dimen133
+\d@tmpa=\dimen134
+\d@bskip=\dimen135
+\hsiz@=\dimen136
+\p@getot@l=\dimen137
+\c@breite=\count113
+\c@hoehe=\count114
+\c@xoff=\count115
+\c@yoff=\count116
+\c@pos=\count117
+\c@shad=\count118
+\c@dash=\count119
+\c@boxl=\count120
+\c@zeilen=\count121
+\@changemode=\count122
+\c@piccaption=\count123
+\c@piccaptionpos=\count124
+\c@picpos=\count125
+\c@whole=\count126
+\c@half=\count127
+\c@tmp=\count128
+\c@tmpa=\count129
+\c@tmpb=\count130
+\c@tmpc=\count131
+\c@tmpd=\count132
+\d@leftskip=\skip63
+\ptoti=\dimen138
+\ptotii=\dimen139
+\env@box=\box57
+\d@envdp=\dimen140
+\c@hsize=\count133
+\c@envdp=\count134
+\d@envb=\dimen141
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\abstract\abstract.sty"
+Package: abstract 2009/06/08 v1.2a configurable abstracts
+\abstitleskip=\skip64
+\absleftindent=\skip65
+\absrightindent=\skip66
+\absparindent=\skip67
+\absparsep=\skip68
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\cjk\UTF8\UTF8.bdg"
+File: UTF8.bdg 2015/04/18 4.8.4
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\cjk\UTF8\UTF8.enc"
+File: UTF8.enc 2015/04/18 4.8.4
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\cjk\UTF8\UTF8.chr"
+File: UTF8.chr 2015/04/18 4.8.4
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box58
+\beforetitleunit=\skip69
+\aftertitleunit=\skip70
+\ttl@plus=\dimen142
+\ttl@minus=\dimen143
+\ttl@toksa=\toks20
+\titlewidth=\dimen144
+\titlewidthlast=\dimen145
+\titlewidthfirst=\dimen146
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\block.tss"
+File: block.tss 2016/03/15
+)
+No file matlab_piano_final_2015011428_2015011431.aux.
+\openout1 = `matlab_piano_final_2015011428_2015011431.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count135
+\scratchdimen=\dimen147
+\scratchbox=\box59
+\nofMPsegments=\count136
+\nofMParguments=\count137
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count138
+\MPscratchDim=\dimen148
+\MPnumerator=\count139
+\makeMPintoPDFobject=\count140
+\everyMPtoPDFconversion=\toks22
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\cjk\UTF8\UTF8.enc"
+File: UTF8.enc 2015/04/18 4.8.4
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\cjk\UTF8\UTF8.chr"
+File: UTF8.chr 2015/04/18 4.8.4
+)
+LaTeX Font Info:    Try loading font information for C70+gbsn on input line 84.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\cjk\UTF8\c70gbsn.fd"
+File: c70gbsn.fd 2015/04/18 4.8.4
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\cjk\UTF8\c70gbsn.fdx"
+File: c70gbsn.fdx 2015/04/18 4.8.4
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 84.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 84.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for C70+hei on input line 94.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\zhmetrics\c70hei.fd"
+File: c70hei.fd 2009/09/23 4.8.2
+)
+LaTeX Font Info:    Try loading font information for C70+kai on input line 94.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\zhmetrics\c70kai.fd"
+File: c70kai.fd 2009/09/23 4.8.2
+)
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+
+ []
+
+LaTeX Font Info:    Try loading font information for C70+song on input line 102.
+("C:\Program Files\MiKTeX 2.9\tex\latex\cjk\UTF8\c70song.fd"
+File: c70song.fd 2015/04/18 4.8.4
+)
+Underfull \hbox (badness 10000) in paragraph at lines 103--107
+
+ []
+
+<../source/source_jpg/piano_a.jpg, id=1, 878.28125pt x 658.46pt>
+File: ../source/source_jpg/piano_a.jpg Graphic file (type jpg)
+ <use ../source/source_jpg/piano_a.jpg>
+Package pdftex.def Info: ../source/source_jpg/piano_a.jpg used on input line 130.
+(pdftex.def)             Requested size: 170.71652pt x 127.98222pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 132--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+<../source/theory.jpg, id=153, 150.5625pt x 93.34875pt>
+File: ../source/theory.jpg Graphic file (type jpg)
+ <use ../source/theory.jpg>
+Package pdftex.def Info: ../source/theory.jpg used on input line 146.
+(pdftex.def)             Requested size: 170.71652pt x 105.8546pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+
+ []
+
+File: ../source/source_jpg/piano_a.jpg Graphic file (type jpg)
+<use ../source/source_jpg/piano_a.jpg>
+Package pdftex.def Info: ../source/source_jpg/piano_a.jpg used on input line 162.
+(pdftex.def)             Requested size: 170.71652pt x 127.98222pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2 <../source/source_jpg/piano_a.jpg> <../source/theory.jpg>]
+<../source/source_jpg/piano_b.jpg, id=169, 878.28125pt x 658.46pt>
+File: ../source/source_jpg/piano_b.jpg Graphic file (type jpg)
+ <use ../source/source_jpg/piano_b.jpg>
+Package pdftex.def Info: ../source/source_jpg/piano_b.jpg used on input line 166.
+(pdftex.def)             Requested size: 170.71652pt x 127.98222pt.
+
+<../source/source_jpg/piano_c.jpg, id=170, 878.28125pt x 658.46pt>
+File: ../source/source_jpg/piano_c.jpg Graphic file (type jpg)
+ <use ../source/source_jpg/piano_c.jpg>
+Package pdftex.def Info: ../source/source_jpg/piano_c.jpg used on input line 170.
+(pdftex.def)             Requested size: 170.71652pt x 127.98222pt.
+
+<../source/source_jpg/piano_d.jpg, id=171, 878.28125pt x 658.46pt>
+File: ../source/source_jpg/piano_d.jpg Graphic file (type jpg)
+ <use ../source/source_jpg/piano_d.jpg>
+Package pdftex.def Info: ../source/source_jpg/piano_d.jpg used on input line 174.
+(pdftex.def)             Requested size: 170.71652pt x 127.98222pt.
+
+<../source/source_jpg/piano_e.jpg, id=172, 878.28125pt x 658.46pt>
+File: ../source/source_jpg/piano_e.jpg Graphic file (type jpg)
+ <use ../source/source_jpg/piano_e.jpg>
+Package pdftex.def Info: ../source/source_jpg/piano_e.jpg used on input line 178.
+(pdftex.def)             Requested size: 170.71652pt x 127.98222pt.
+
+<../source/source_jpg/piano_f.jpg, id=173, 878.28125pt x 658.46pt>
+File: ../source/source_jpg/piano_f.jpg Graphic file (type jpg)
+ <use ../source/source_jpg/piano_f.jpg>
+Package pdftex.def Info: ../source/source_jpg/piano_f.jpg used on input line 182.
+(pdftex.def)             Requested size: 170.71652pt x 127.98222pt.
+
+<../source/source_jpg/piano_g.jpg, id=174, 878.28125pt x 658.46pt>
+File: ../source/source_jpg/piano_g.jpg Graphic file (type jpg)
+ <use ../source/source_jpg/piano_g.jpg>
+Package pdftex.def Info: ../source/source_jpg/piano_g.jpg used on input line 186.
+(pdftex.def)             Requested size: 170.71652pt x 127.98222pt.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.191 		音符名& 基频频率 & 基频幅值 &
+                                                 二倍频幅值 &三倍频�...
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.193 		A &441 &0.1206 &
+                        0.1862 &0.04764 &0.01175\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.195 		B	&498.3 & 0.1586 &
+                           0.2295 &0.04901  &0\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.197 		C	&524.8 &0.1193 &
+                          0.2139 &0.05438  &0\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.199 		D	&590.9 &0.1487 &
+                          0.2813 &0.0647   &0\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.201 		E &665.9 &0.1393 &
+                          0.3097 &0.05142  &0\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.203 		F &705.6 &0.1344 &
+                          0.3186 &0.5116   &0\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Extra alignment tab has been changed to \cr.
+<recently read> \endtemplate 
+                             
+l.205 		G	&789.4 &0.1128 &
+                          0.2899 &0.07855  &0.03796\\
+You have given more \span or & marks than there were
+in the preamble to the \halign or \valign now in progress.
+So I'll assume that you meant to type \cr instead.
+
+! Undefined control sequence.
+<recently read> \hilne 
+                       
+l.206 		\hilne
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<../source/generate_jpg/tone_a.jpg, id=175, 1204.5pt x 903.375pt>
+File: ../source/generate_jpg/tone_a.jpg Graphic file (type jpg)
+ <use ../source/generate_jpg/tone_a.jpg>
+Package pdftex.def Info: ../source/generate_jpg/tone_a.jpg used on input line 215.
+(pdftex.def)             Requested size: 170.71652pt x 128.02927pt.
+ [3 <../source/source_jpg/piano_b.jpg> <../source/source_jpg/piano_c.jpg> <../source/source_jpg/piano_d.jpg> <../source/
+source_jpg/piano_e.jpg> <../source/source_jpg/piano_f.jpg> <../source/source_jpg/piano_g.jpg>]
+<../source/generate_jpg/tone_b.jpg, id=179, 1204.5pt x 903.375pt>
+File: ../source/generate_jpg/tone_b.jpg Graphic file (type jpg)
+ <use ../source/generate_jpg/tone_b.jpg>
+Package pdftex.def Info: ../source/generate_jpg/tone_b.jpg used on input line 219.
+(pdftex.def)             Requested size: 170.71652pt x 128.02927pt.
+
+<../source/generate_jpg/tone_c.jpg, id=180, 1204.5pt x 903.375pt>
+File: ../source/generate_jpg/tone_c.jpg Graphic file (type jpg)
+ <use ../source/generate_jpg/tone_c.jpg>
+Package pdftex.def Info: ../source/generate_jpg/tone_c.jpg used on input line 223.
+(pdftex.def)             Requested size: 170.71652pt x 128.02927pt.
+
+<../source/generate_jpg/tone_d.jpg, id=181, 1204.5pt x 903.375pt>
+File: ../source/generate_jpg/tone_d.jpg Graphic file (type jpg)
+ <use ../source/generate_jpg/tone_d.jpg>
+Package pdftex.def Info: ../source/generate_jpg/tone_d.jpg used on input line 227.
+(pdftex.def)             Requested size: 170.71652pt x 128.02927pt.
+
+<../source/generate_jpg/tone_e.jpg, id=182, 1204.5pt x 903.375pt>
+File: ../source/generate_jpg/tone_e.jpg Graphic file (type jpg)
+ <use ../source/generate_jpg/tone_e.jpg>
+Package pdftex.def Info: ../source/generate_jpg/tone_e.jpg used on input line 231.
+(pdftex.def)             Requested size: 170.71652pt x 128.02927pt.
+
+<../source/generate_jpg/tone_f.jpg, id=183, 1204.5pt x 903.375pt>
+File: ../source/generate_jpg/tone_f.jpg Graphic file (type jpg)
+ <use ../source/generate_jpg/tone_f.jpg>
+Package pdftex.def Info: ../source/generate_jpg/tone_f.jpg used on input line 235.
+(pdftex.def)             Requested size: 170.71652pt x 128.02927pt.
+
+<../source/generate_jpg/tone_g.jpg, id=184, 1204.5pt x 903.375pt>
+File: ../source/generate_jpg/tone_g.jpg Graphic file (type jpg)
+ <use ../source/generate_jpg/tone_g.jpg>
+Package pdftex.def Info: ../source/generate_jpg/tone_g.jpg used on input line 239.
+(pdftex.def)             Requested size: 170.71652pt x 128.02927pt.
+ [4 <../source/generate_jpg/tone_a.jpg> <../source/generate_jpg/tone_b.jpg> <../source/generate_jpg/tone_c.jpg> <../sour
+ce/generate_jpg/tone_d.jpg> <../source/generate_jpg/tone_e.jpg> <../source/generate_jpg/tone_f.jpg>]
+<../source/generate_jpg/song_of_happiness1.jpg, id=190, 1204.5pt x 903.375pt>
+File: ../source/generate_jpg/song_of_happiness1.jpg Graphic file (type jpg)
+
+<use ../source/generate_jpg/song_of_happiness1.jpg>
+Package pdftex.def Info: ../source/generate_jpg/song_of_happiness1.jpg used on input line 248.
+(pdftex.def)             Requested size: 170.71652pt x 128.02927pt.
+
+<../source/generate_jpg/song_of_happiness2.jpg, id=191, 1204.5pt x 903.375pt>
+File: ../source/generate_jpg/song_of_happiness2.jpg Graphic file (type jpg)
+
+<use ../source/generate_jpg/song_of_happiness2.jpg>
+Package pdftex.def Info: ../source/generate_jpg/song_of_happiness2.jpg used on input line 252.
+(pdftex.def)             Requested size: 170.71652pt x 128.02927pt.
+
+<../source/generate_jpg/song_of_thu1.jpg, id=192, 1204.5pt x 903.375pt>
+File: ../source/generate_jpg/song_of_thu1.jpg Graphic file (type jpg)
+ <use ../source/generate_jpg/song_of_thu1.jpg>
+Package pdftex.def Info: ../source/generate_jpg/song_of_thu1.jpg used on input line 256.
+(pdftex.def)             Requested size: 170.71652pt x 128.02927pt.
+
+<../source/generate_jpg/song_of_thu2.jpg, id=193, 1204.5pt x 903.375pt>
+File: ../source/generate_jpg/song_of_thu2.jpg Graphic file (type jpg)
+ <use ../source/generate_jpg/song_of_thu2.jpg>
+Package pdftex.def Info: ../source/generate_jpg/song_of_thu2.jpg used on input line 260.
+(pdftex.def)             Requested size: 170.71652pt x 128.02927pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.271 [1]:http://blog.sina.com.cn/s/blog_
+                                         7e1870780100ynw1.html
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.272 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.273 [2]:http://blog.sina.com.cn/s/blog_
+                                         891a4b2c0101f81i.html
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.274 \section{源码和声音文件仓库}
+                                           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[5 <../source/generate_jpg/tone_g.jpg> <../source/generate_jpg/song_of_happiness1.jpg> <../source/generate_jpg/song_of_h
+appiness2.jpg> <../source/generate_jpg/song_of_thu1.jpg> <../source/generate_jpg/song_of_thu2.jpg>] [6]
+(matlab_piano_final_2015011428_2015011431.aux
+! Missing \endcsname inserted.
+<to be read again> 
+                   \CJK@226 
+l.7 \newlabel{theory—s}{{1}{2}}
+                                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+! Undefined control sequence.
+\CJK@XXX ...endcsname {`#2}{`#3}\CJK@ignorespaces 
+                                                  \fi 
+l.7 \newlabel{theory—s}{{1}{2}}
+                                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \endcsname.
+\@newl@bel ...dafter \ifx \csname #1@#2\endcsname 
+                                                  \reserved@a \else \@tempsw...
+l.7 \newlabel{theory—s}{{1}{2}}
+                                 
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Extra \else.
+\@newl@bel ...e #1@#2\endcsname \reserved@a \else 
+                                                  \@tempswatrue \fi 
+l.7 \newlabel{theory—s}{{1}{2}}
+                                 
+I'm ignoring this; it doesn't match any \if.
+
+)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5290 strings out of 493323
+ 73543 string characters out of 3139063
+ 146034 words of memory out of 3000000
+ 8574 multiletter control sequences out of 15000+200000
+ 57090 words of font info for 210 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,10n,46p,419b,655s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb5e.pk> <C:\Users\tianbo\App
+Data\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb78.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\f
+onts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb6e.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetr
+ics\cyberb\dpi720\cyberb73.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyber
+b65.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb80.pk> <C:\Users\tianb
+o\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb64.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\
+2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb62.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\z
+hmetrics\cyberb\dpi720\cyberb52.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\
+cyberb7e.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb6d.pk> <C:\Users\
+tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb9a.pk> <C:\Users\tianbo\AppData\Local\Mi
+KTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb8a.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\model
+ess\zhmetrics\cyberb\dpi657\cyberb8d.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dp
+i657\cyberb55.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb20.pk> <C:\U
+sers\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb66.pk> <C:\Users\tianbo\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb7b.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\
+modeless\zhmetrics\cyberb\dpi720\cyberb8f.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cybe
+rb\dpi657\cyberb81.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb70.pk> 
+<C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb6a.pk> <C:\Users\tianbo\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb95.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\font
+s\pk\modeless\zhmetrics\cyberb\dpi657\cyberb6d.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics
+\cyberb\dpi720\cyberb4f.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb58
+.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb59.pk> <C:\Users\tianbo\A
+ppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb83.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9
+\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb63.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhme
+trics\cyberb\dpi657\cyberb71.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyb
+erb7a.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb6e.pk> <C:\Users\tia
+nbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb7f.pk> <C:\Users\tianbo\AppData\Local\MiKTe
+X\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb86.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless
+\zhmetrics\cyberb\dpi657\cyberb56.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi65
+7\cyberb89.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb79.pk> <C:\User
+s\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb50.pk> <C:\Users\tianbo\AppData\Local\
+MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb6b.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\mod
+eless\zhmetrics\cyberb\dpi657\cyberb78.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\
+dpi657\cyberb7c.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb8b.pk> <C:
+\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb77.pk> <C:\Users\tianbo\AppData\L
+ocal\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb57.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\p
+k\modeless\zhmetrics\cyberb\dpi720\cyberb76.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cy
+berb\dpi720\cyberb4e.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb97.pk
+> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb54.pk> <C:\Users\tianbo\AppD
+ata\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb94.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fo
+nts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb51.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetri
+cs\cyberb\dpi720\cyberb67.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb
+74.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb53.pk> <C:\Users\tianbo
+\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb80.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2
+.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb6c.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zh
+metrics\cyberb\dpi657\cyberb91.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\c
+yberb8b.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb77.pk> <C:\Users\t
+ianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb99.pk> <C:\Users\tianbo\AppData\Local\MiK
+TeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb62.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modele
+ss\zhmetrics\cyberb\dpi657\cyberb7b.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi
+657\cyberb54.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb90.pk> <C:\Us
+ers\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberbff.pk> <C:\Users\tianbo\AppData\Loca
+l\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb60.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\m
+odeless\zhmetrics\cyberb\dpi657\cyberb72.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyber
+b\dpi657\cyberb8c.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb98.pk> <
+C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb96.pk> <C:\Users\tianbo\AppData
+\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb68.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts
+\pk\modeless\zhmetrics\cyberb\dpi657\cyberb94.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\
+cyberb\dpi657\cyberb5d.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb5c.
+pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb75.pk> <C:\Users\tianbo\Ap
+pData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb5e.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\
+fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb7e.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmet
+rics\cyberb\dpi657\cyberb58.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cybe
+rb61.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb52.pk> <C:\Users\tian
+bo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb97.pk> <C:\Users\tianbo\AppData\Local\MiKTeX
+\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb73.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\
+zhmetrics\cyberb\dpi657\cyberb88.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657
+\cyberb82.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb51.pk> <C:\Users
+\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb67.pk> <C:\Users\tianbo\AppData\Local\M
+iKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb74.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\mode
+less\zhmetrics\cyberb\dpi657\cyberb53.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\d
+pi657\cyberb4f.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb57.pk> <C:\
+Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb30.pk> <C:\Users\tianbo\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb8f.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk
+\modeless\zhmetrics\cyberb\dpi657\cyberb5b.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyb
+erb\dpi657\cyberb65.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb76.pk>
+ <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb59.pk> <C:\Users\tianbo\AppDa
+ta\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb5f.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fon
+ts\pk\modeless\zhmetrics\cyberb\dpi657\cyberb4e.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetric
+s\cyberb\dpi657\cyberb66.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb8
+a.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\cyberb\dpi720\cyberb5f.pk> <C:\Users\tianbo\
+AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unihei\dpi657\unihei8b.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.
+9\fonts\pk\modeless\zhmetrics\unihei\dpi657\unihei95.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhm
+etrics\unihei\dpi657\unihei51.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\un
+ikai96.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai7e.pk> <C:\Users\ti
+anbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai90.pk> <C:\Users\tianbo\AppData\Local\MiKT
+eX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai54.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeles
+s\zhmetrics\unikai\dpi657\unikai71.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi6
+57\unikai30.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai50.pk> <C:\Use
+rs\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai5e.pk> <C:\Users\tianbo\AppData\Local
+\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai8c.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\mo
+deless\zhmetrics\unikai\dpi657\unikai56.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai
+\dpi657\unikai53.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai73.pk> <C
+:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai57.pk> <C:\Users\tianbo\AppData\
+Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai5f.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\
+pk\modeless\zhmetrics\unikai\dpi657\unikai8b.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\u
+nikai\dpi657\unikai88.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai8f.p
+k> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai98.pk> <C:\Users\tianbo\App
+Data\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai97.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\f
+onts\pk\modeless\zhmetrics\unikai\dpi657\unikai76.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetr
+ics\unikai\dpi657\unikai5d.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unika
+i7f.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai4e.pk> <C:\Users\tianb
+o\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai5b.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\
+2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai51.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\z
+hmetrics\unikai\dpi657\unikaiff.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\
+unikai66.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai74.pk> <C:\Users\
+tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai94.pk> <C:\Users\tianbo\AppData\Local\Mi
+KTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai62.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\model
+ess\zhmetrics\unikai\dpi657\unikai75.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dp
+i657\unikai52.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai5c.pk> <C:\U
+sers\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai65.pk> <C:\Users\tianbo\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unikai\dpi657\unikai67.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\
+modeless\zhmetrics\unihei\dpi657\unihei89.pk> <C:\Users\tianbo\AppData\Local\MiKTeX\2.9\fonts\pk\modeless\zhmetrics\unih
+ei\dpi657\unihei64.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu4f.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/arphic/gb
+snu/gbsnu52.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu53.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/arphic/gbsnu/gbsnu54.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu59.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/arphic/gbsnu/gbsnu5b.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu66.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu6c.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu6f.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gb
+snu73.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu74.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/arp
+hic/gbsnu/gbsnu75.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu7c.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/arphic/gbsnu/gbsnu81.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu83.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu94.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnuff.pfb>
+Output written on matlab_piano_final_2015011428_2015011431.pdf (6 pages, 1737740 bytes).
+PDF statistics:
+ 1205 PDF objects out of 1440 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+
